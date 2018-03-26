@@ -1,0 +1,2 @@
+cd C:\codes\kaggle_titanic
+jupyter lab
