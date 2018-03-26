@@ -1,4 +1,5 @@
-# kaggle_titanic
+# Titanic Kaggle competitions codes
+
 Several scripts and notebook related to the Titanic competition on Kaggle
 
 ### Exploratory data analysis (EDA)
